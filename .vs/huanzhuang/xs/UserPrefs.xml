@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{95232EF4-00E6-87DF-301B-ADC111CC823A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadAvatar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AvatarSys.cs" Line="225" Column="35" />
+      <File FileName="Assets/Scripts/AvatarButton.cs" />
+      <File FileName="Assets/Scripts/SpinWithMouse.cs" />
+      <File FileName="Assets/Scripts/LoadAvatar.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="huanzhuang" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LoadAvatar.cs" selected="True" />
+              </Node>
+              <Node name="Sources" expanded="True">
+                <Node name="Character" expanded="True">
+                  <Node name="Env" expanded="True">
+                    <Node name="Glow" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87a7374a-dd3e-4454-a6de-e2b8d7262e8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
